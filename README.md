@@ -1,1 +1,2 @@
-# relay-setup
+# RELAY SETUP
+ ^_^
