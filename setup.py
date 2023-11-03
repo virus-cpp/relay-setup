@@ -2,6 +2,12 @@
 import os
 import subprocess
 print("""
+                 █        █
+                █ █      █ █
+               █   █    █   █
+
+
+                 ▀▀▀▀▀▀▀▀▀▀
 Tor SetUp For Ubuntu Linux
 ================================
 * Email required ^_^
