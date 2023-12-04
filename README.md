@@ -1,2 +1,2 @@
 # RELAY SETUP
- ^_^
+Automatically sets up tor relay upon launching python code!!!
