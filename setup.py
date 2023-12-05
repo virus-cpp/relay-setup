@@ -2,22 +2,16 @@
 import os
 import subprocess
 print("""
-                 █        █
-                █ █      █ █
-               █   █    █   █
-
-
-                 ▀▀▀▀▀▀▀▀▀▀
 Tor SetUp For Ubuntu Linux
 ================================
-* Email required ^_^
+* Email required
 * Please beware that there are legal stuff involved with running a tor relay
 
 I recommend you using a cloud service 
       
 Note: Do not skid, you will get caught skidding ^_^
 
-Author: mr.akz                                                        
+Author: virus.cpp                                                      
 """)
 email = input("Please enter your email: ")
 email = email.split()
